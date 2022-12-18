@@ -18,7 +18,7 @@ https://www.udemy.com/course/solid-os-5-principios-para-as-boas-praticas-da-poo/
 
 ## <a name="parte1">1 - Introdução</a>
 
-
+![imgs/solid-slide-001.png](imgs/solid-slide-001.png)
 
 [Voltar ao Índice](#indice)
 
