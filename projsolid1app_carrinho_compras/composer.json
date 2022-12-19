@@ -1,0 +1,17 @@
+{
+    "name": "josem/projsolid1app_carrinho_compras",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jose Malcher Jr",
+            "email": "contato@josemalcher.net"
+        }
+    ],
+    "require": {}
+
+}

@@ -37,6 +37,26 @@ https://www.udemy.com/course/solid-os-5-principios-para-as-boas-praticas-da-poo/
 
 ## <a name="parte2">2 - SRP - Single Responsibility Principle (Princípio da Responsabilidade Única)</a>
 
+04- Iniciando o projeto Carrinho de Compras
+
+- /projsolid1app_carrinho_compras
+
+05 - Projeto Carrinho de Compras - Configurando o Autoloader
+
+![imgs/solid-slide-004.png](imgs/solid-slide-004.png)
+
+
+06 - Projeto Carrinho de Compras - Abstraindo os atributos e métodos
+
+07 - Entendendo o Single Responsibility Principle (SRP)
+
+08 - Refactoring do Projeto - Aplicando o princípio na prática parte 1
+
+09 - Refactoring do Projeto - Aplicando o princípio na prática parte 2
+
+10 - Refactoring do Projeto - Aplicando o princípio na prática parte 3
+
+11 - Testando as vantagens do SRP
 
 
 [Voltar ao Índice](#indice)
