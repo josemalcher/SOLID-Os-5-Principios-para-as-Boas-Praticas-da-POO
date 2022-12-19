@@ -148,6 +148,8 @@ echo "<br> Status " . $carrinho1->exibirStatus();
 
 07 - Entendendo o Single Responsibility Principle (SRP)
 
+![imgs/solid-slide-005.png](imgs/solid-slide-005.png)
+
 08 - Refactoring do Projeto - Aplicando o princípio na prática parte 1
 
 09 - Refactoring do Projeto - Aplicando o princípio na prática parte 2
