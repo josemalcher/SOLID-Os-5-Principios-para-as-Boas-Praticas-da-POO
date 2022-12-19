@@ -18,7 +18,17 @@ https://www.udemy.com/course/solid-os-5-principios-para-as-boas-praticas-da-poo/
 
 ## <a name="parte1">1 - Introdução</a>
 
+### O que é o SOLID?
 ![imgs/solid-slide-001.png](imgs/solid-slide-001.png)
+
+![imgs/solid-slide-002.png](imgs/solid-slide-002.png)
+ 
+
+### Como vai o seu código?
+
+![imgs/solid-slide-003.png](imgs/solid-slide-003.png)
+
+### Canais de comunicação
 
 [Voltar ao Índice](#indice)
 
