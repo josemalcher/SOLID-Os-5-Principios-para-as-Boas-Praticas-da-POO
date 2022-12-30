@@ -152,6 +152,8 @@ echo "<br> Status " . $carrinho1->exibirStatus();
 
 08 - Refactoring do Projeto - Aplicando o princípio na prática parte 1
 
+![imgs/solid-slide-006.png](imgs/solid-slide-006.png)
+
 09 - Refactoring do Projeto - Aplicando o princípio na prática parte 2
 
 10 - Refactoring do Projeto - Aplicando o princípio na prática parte 3
