@@ -156,6 +156,8 @@ echo "<br> Status " . $carrinho1->exibirStatus();
 
 09 - Refactoring do Projeto - Aplicando o princípio na prática parte 2
 
+[projsolid1app_carrinho_compras_b](projsolid1app_carrinho_compras_b)
+
 10 - Refactoring do Projeto - Aplicando o princípio na prática parte 3
 
 11 - Testando as vantagens do SRP
