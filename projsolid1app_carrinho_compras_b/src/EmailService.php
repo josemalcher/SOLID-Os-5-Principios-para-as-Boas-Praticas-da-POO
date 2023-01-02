@@ -28,7 +28,7 @@ class EmailService
     $this->conteudo = $conteudo;
   }
 
-  public function disparaEmail()
+  public static function disparaEmail()
   {
     return '--- envia email ---';
   }
