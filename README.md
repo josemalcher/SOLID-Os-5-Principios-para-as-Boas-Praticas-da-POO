@@ -162,6 +162,7 @@ echo "<br> Status " . $carrinho1->exibirStatus();
 
 11 - Testando as vantagens do SRP
 
+![imgs/solid-slide-007.png](imgs/solid-slide-007.png)
 
 [Voltar ao Índice](#indice)
 

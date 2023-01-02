@@ -49,7 +49,15 @@ class Item
     $this->valor = $valor;
   }
 
-
-
+  public function itemValido()
+  {
+    if ($this->$item == '') {
+      return false;
+    }
+    if ($this->$valor <= 0) {
+      return false;
+    }
+    return true;
+  }
 
 }
