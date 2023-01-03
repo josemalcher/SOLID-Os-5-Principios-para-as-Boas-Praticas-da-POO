@@ -265,6 +265,41 @@ Process finished with exit code 0
 
 16 - Criando um provedor de dados para testes
 
+```php
+  /**
+   * @dataProvider dataValores
+   * */
+  public function testGetSetValor($valor)
+  {
+    // $valor = 35.99;
+    $item = new Item();
+    $item->setValor($valor);
+    $this->assertEquals($valor, $item->getValor());
+  }
+
+  public function dataValores()
+  {
+    return [
+      [100],
+      [-2],
+      [0],
+      [5],
+    ];
+  }
+```
+
+```
+Testing started at 6:40 PM ...
+PHPUnit 9.5.27 by Sebastian Bergmann and contributors.
+
+....                                                                4 / 4 (100%)
+
+Time: 00:00.016, Memory: 4.00 MB
+
+OK (4 tests, 4 assertions)
+
+Process finished with exit code 0
+```
 
 [Voltar ao Índice](#indice)
 
