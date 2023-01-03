@@ -51,10 +51,10 @@ class Item
 
   public function itemValido()
   {
-    if ($this->$item == '') {
+    if ($this->descricao == '') {
       return false;
     }
-    if ($this->$valor <= 0) {
+    if ($this->valor <= 0) {
       return false;
     }
     return true;
