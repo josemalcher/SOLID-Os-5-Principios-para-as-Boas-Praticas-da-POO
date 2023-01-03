@@ -171,6 +171,21 @@ echo "<br> Status " . $carrinho1->exibirStatus();
 
 ## <a name="parte3">3 - Extra - Implementando testes de unidade automatizados</a>
 
+12 - O que são os testes de software?
+
+![imgs/solid-slide-008.png](imgs/solid-slide-008.png)
+
+13 - Incluindo o PHPUnit no projeto via Composer
+
+```
+$ composer require --dev --prefer-dist phpunit/phpunit ^9.0
+```
+
+14 - Implementando nosso primeiro teste
+
+15 - Testes e Asserções
+
+16 - Criando um provedor de dados para testes
 
 
 [Voltar ao Índice](#indice)

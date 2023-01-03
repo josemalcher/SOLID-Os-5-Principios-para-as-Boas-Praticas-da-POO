@@ -12,6 +12,7 @@
             "email": "contato@josemalcher.net"
         }
     ],
-    "require": {}
-
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
 }
