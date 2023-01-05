@@ -316,6 +316,8 @@ Process finished with exit code 0
 
 18 - Projeto ETL - Lendo um arquivo CSV
 
+![imgs/solid-slide-010.png](imgs/solid-slide-010.png)
+
 19 - Projeto ETL - Lendo um arquivo TXT
 
 20 - Entendendo o Open/Closed Principle (OCP)
