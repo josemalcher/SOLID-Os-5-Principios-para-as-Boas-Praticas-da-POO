@@ -308,6 +308,21 @@ Process finished with exit code 0
 
 ## <a name="parte4">4 - OCP - Open/Closed Principle (Princípio Aberto/Fechado)</a>
 
+17 - Iniciando o projeto ETL (Extract Transform Load)
+
+![imgs/solid-slide-009.png](imgs/solid-slide-009.png)
+
+- (app_etl)[app_etl]
+
+18 - Projeto ETL - Lendo um arquivo CSV
+
+19 - Projeto ETL - Lendo um arquivo TXT
+
+20 - Entendendo o Open/Closed Principle (OCP)
+
+21 - Refactoring do Projeto - Aplicando o princípio na prática
+
+22 - Testando as vantagens do OCP
 
 
 [Voltar ao Índice](#indice)

@@ -1,0 +1,15 @@
+{
+    "name": "josem/app_etl",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jose Malcher Jr",
+            "email": "contato@josemalcher.net"
+        }
+    ],
+    "require": {}
+}
