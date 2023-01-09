@@ -328,6 +328,8 @@ Process finished with exit code 0
 
 21 - Refactoring do Projeto - Aplicando o princípio na prática
 
+![imgs/solid-slide-013.png](imgs/solid-slide-013.png)
+
 22 - Testando as vantagens do OCP
 
 

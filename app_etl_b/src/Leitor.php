@@ -20,7 +20,7 @@ class Leitor
   /**
    * @param string $diretorio
    */
-  public function setDiretorio(string $diretorio):void
+  public function setDiretorio(string $diretorio): void
   {
     $this->diretorio = $diretorio;
   }
@@ -36,14 +36,29 @@ class Leitor
   /**
    * @param string $arquivo
    */
-  public function setArquivo(string $arquivo):void
+  public function setArquivo(string $arquivo): void
   {
     $this->arquivo = $arquivo;
   }
 
-  public function lerArquivo():array
+  public function lerArquivo(): array
   {
+
     $caminho = $this->getDiretorio() . '/' . $this->getArquivo();
+    $extencao = explode('.', $this->getArquivo());
+
+    $classe = 'src\extrator\\' . ucfirst($extencao[1]);
+
+    return call_user_func_array([
+      new $classe,
+      'lerArquivo'
+    ],
+      [
+        $caminho
+      ]);
+
+
+    /*$caminho = $this->getDiretorio() . '/' . $this->getArquivo();
     $arquivo = new Arquivo();
 
     $extencao = explode('.', $this->getArquivo());
@@ -54,6 +69,6 @@ class Leitor
     }else if($extencao[1] == 'txt'){
       $arquivo->lerArquivoTXT($caminho);
     }
-    return $arquivo->getDados();
+    return $arquivo->getDados();*/
   }
 }
