@@ -322,6 +322,10 @@ Process finished with exit code 0
 
 20 - Entendendo o Open/Closed Principle (OCP)
 
+![imgs/solid-slide-011.png](imgs/solid-slide-011.png)
+
+![imgs/solid-slide-012.png](imgs/solid-slide-012.png)
+
 21 - Refactoring do Projeto - Aplicando o princípio na prática
 
 22 - Testando as vantagens do OCP
