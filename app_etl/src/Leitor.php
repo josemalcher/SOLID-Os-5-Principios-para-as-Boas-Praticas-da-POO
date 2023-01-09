@@ -43,7 +43,15 @@ class Leitor
   {
     $caminho = $this->getDiretorio() . '/' . $this->getArquivo();
     $arquivo = new Arquivo();
-    $arquivo->lerArquivoCSV($caminho);
+
+    $extencao = explode('.', $this->getArquivo());
+
+    if ($extencao[1] == 'csv') {
+      $arquivo->lerArquivoCSV($caminho);
+
+    }else if($extencao[1] == 'txt'){
+      $arquivo->lerArquivoTXT($caminho);
+    }
     return $arquivo->getDados();
   }
 }
