@@ -340,7 +340,16 @@ Process finished with exit code 0
 
 ## <a name="parte5">5 - LSP - Liskov Substitution Principle (Princípio de Substituição de Liskov)</a>
 
+- 23 Iniciando o projeto Polígonos
 
+![imgs/solid-slide-014.png](imgs/solid-slide-014.png)
+
+- [app_poligonos](app_poligonos)
+
+- 24 Projeto Polígonos - Retângulo e Quadrado
+- 25 Projeto Polígonos - Testando a Substituição de Tipos
+- 26 Entendendo o Liskov Substituion Principal
+- 27 Refactoring do Projeto - Aplicando o princípio na prática
 
 [Voltar ao Índice](#indice)
 
