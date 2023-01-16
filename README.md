@@ -347,6 +347,9 @@ Process finished with exit code 0
 - [app_poligonos](app_poligonos)
 
 - 24 Projeto Polígonos - Retângulo e Quadrado
+
+![imgs/solid-slide-015.png](imgs/solid-slide-015.png)
+
 - 25 Projeto Polígonos - Testando a Substituição de Tipos
 - 26 Entendendo o Liskov Substituion Principal
 - 27 Refactoring do Projeto - Aplicando o princípio na prática
