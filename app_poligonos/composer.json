@@ -2,7 +2,7 @@
     "name": "josem/app_poligonos",
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "src\\": "src/"
         }
     },
     "authors": [
