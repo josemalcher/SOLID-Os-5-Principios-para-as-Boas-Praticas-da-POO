@@ -355,6 +355,9 @@ Process finished with exit code 0
 ![imgs/solid-slide-016.png](imgs/solid-slide-016.png)
 
 - 26 Entendendo o Liskov Substituion Principal
+
+![imgs/solid-slide-017.png](imgs/solid-slide-017.png)
+
 - 27 Refactoring do Projeto - Aplicando o princípio na prática
 
 [Voltar ao Índice](#indice)
