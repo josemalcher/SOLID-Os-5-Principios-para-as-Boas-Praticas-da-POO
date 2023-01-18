@@ -394,7 +394,11 @@ Process finished with exit code 0
 
 - 33 Iniciando o Projeto Mensageiro
 
+[app_mensageiro](app_mensageiro)
+
 - 34 Projeto Mensageiro parte 1 - Implementando os componentes da aplicação
+
+![imgs/solid-slide-021.png](imgs/solid-slide-021.png)
 
 - 35 Projeto Mensageiro parte 2 - Implementando os componentes da aplicação
 
