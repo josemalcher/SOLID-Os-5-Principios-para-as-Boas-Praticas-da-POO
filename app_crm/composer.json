@@ -1,0 +1,15 @@
+{
+    "name": "josem/app_crm",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jose Malcher Jr",
+            "email": "contato@josemalcher.net"
+        }
+    ],
+    "require": {}
+}

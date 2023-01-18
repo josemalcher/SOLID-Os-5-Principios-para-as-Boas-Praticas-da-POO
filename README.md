@@ -367,6 +367,17 @@ Process finished with exit code 0
 
 ## <a name="parte6">6 - ISP - Interface Segregation Principle (Princípio da Segregação de Interface)</a>
 
+- 28 Iniciando o Projeto CRM
+
+[app_crm](app_crm)
+
+- 29 Projeto CRM - Implementando os componentes da aplicação
+
+- 30 Projeto CRM - Implementando a interface
+
+- 31 Entendendo o Interface Segregation Principle
+
+- 32 Refactoring do Projeto - Aplicando o princípio na prática
 
 
 [Voltar ao Índice](#indice)
@@ -376,6 +387,15 @@ Process finished with exit code 0
 
 ## <a name="parte7">7 - DIP - Dependency Inversion Principle (Princípio da Inversão de Dependência)</a>
 
+- 33 Iniciando o Projeto Mensageiro
+
+- 34 Projeto Mensageiro parte 1 - Implementando os componentes da aplicação
+
+- 35 Projeto Mensageiro parte 2 - Implementando os componentes da aplicação
+
+- 36 Entendendo o Dependency Inversion Principle
+
+- 37 Refactoring do Projeto - Aplicando o princípio na prática
 
 
 [Voltar ao Índice](#indice)
