@@ -2,16 +2,22 @@
 
 namespace App;
 
-use App\Email;
+use App\IMensagemToken;
 
 class Mensageiro
 {
+
+
   private $canal;
 
+  public function __construct(IMensagemToken $canal)
+  {
+    $this->setCanal($canal);
+  }
   /**
    * @return mixed
    */
-  public function getCanal(): string
+  public function getCanal(): IMensagemToken
   {
     return $this->canal;
   }
@@ -19,18 +25,18 @@ class Mensageiro
   /**
    * @param mixed $canal
    */
-  public function setCanal(string $canal): void
+  public function setCanal(IMensagemToken $canal): void
   {
     $this->canal = $canal;
   }
 
   public function enviarToken() :void
   {
-    $classe = '\App\\' . ucfirst($this->getCanal());
-    echo "$classe <br>";
-
-    $obj = new $classe;
-    $obj->enviar();
-
+//    $classe = '\App\\' . ucfirst($this->getCanal());
+//    echo "$classe <br>";
+//
+//    $obj = new $classe; // impplementações = instancias
+//    $obj->enviar();
+    $this->getCanal()->enviar();
   }
 }

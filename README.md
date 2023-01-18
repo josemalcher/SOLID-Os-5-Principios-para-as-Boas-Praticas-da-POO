@@ -406,6 +406,12 @@ Process finished with exit code 0
 
 - 36 Entendendo o Dependency Inversion Principle
 
+![imgs/solid-slide-023.png](imgs/solid-slide-023.png)
+
+![imgs/solid-slide-024.png](imgs/solid-slide-024.png)
+
+![imgs/solid-slide-025.png](imgs/solid-slide-025.png)
+
 - 37 Refactoring do Projeto - Aplicando o princípio na prática
 
 
