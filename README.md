@@ -402,6 +402,8 @@ Process finished with exit code 0
 
 - 35 Projeto Mensageiro parte 2 - Implementando os componentes da aplicação
 
+![imgs/solid-slide-022.png](imgs/solid-slide-022.png)
+
 - 36 Entendendo o Dependency Inversion Principle
 
 - 37 Refactoring do Projeto - Aplicando o princípio na prática

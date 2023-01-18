@@ -2,7 +2,7 @@
 
 namespace App;
 
-class Email
+class Email implements IMensagemToken
 {
   public function enviar(): void
   {
