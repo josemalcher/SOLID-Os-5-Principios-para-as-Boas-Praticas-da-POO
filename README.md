@@ -379,8 +379,11 @@ Process finished with exit code 0
 
 - 31 Entendendo o Interface Segregation Principle
 
+![imgs/solid-slide-019.png](imgs/solid-slide-019.png)
+
 - 32 Refactoring do Projeto - Aplicando o princípio na prática
 
+![imgs/solid-slide-020.png](imgs/solid-slide-020.png)
 
 [Voltar ao Índice](#indice)
 

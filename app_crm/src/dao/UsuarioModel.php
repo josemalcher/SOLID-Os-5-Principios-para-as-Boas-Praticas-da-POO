@@ -6,8 +6,10 @@ use App\BD;
 use App\componentes\Log;
 use App\componentes\Notificacao;
 use App\interfaces\ICadastro;
+use App\interfaces\ILog;
+use App\interfaces\INotificacao;
 
-class UsuarioModel extends BD implements ICadastro
+class UsuarioModel extends BD implements ICadastro, ILog, INotificacao
 {
   public function salvar()
   {
@@ -23,5 +25,6 @@ class UsuarioModel extends BD implements ICadastro
   {
     // TODO: Implement enviarNotificacao() method.
   }
+
 
 }

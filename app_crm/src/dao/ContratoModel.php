@@ -15,14 +15,4 @@ class ContratoModel extends BD implements ICadastro
     // TODO: Implement salvar() method.
   }
 
-  public function registrarLog(Log $log)
-  {
-    // TODO: Implement registrarLog() method.
-  }
-
-  public function enviarNotificacao(Notificacao $notificacao)
-  {
-    // TODO: Implement enviarNotificacao() method.
-  }
-
 }
