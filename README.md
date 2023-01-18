@@ -373,6 +373,8 @@ Process finished with exit code 0
 
 - 29 Projeto CRM - Implementando os componentes da aplicação
 
+![imgs/solid-slide-018.png](imgs/solid-slide-018.png)
+
 - 30 Projeto CRM - Implementando a interface
 
 - 31 Entendendo o Interface Segregation Principle

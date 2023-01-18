@@ -3,7 +3,7 @@
         'name' => 'josem/app_crm',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'c736a5c2a003d143fecdc5bbda0d7bbe0109097e',
+        'reference' => 'af9243c776fb74875478d665d80a0738afa8fb50',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'josem/app_crm' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'c736a5c2a003d143fecdc5bbda0d7bbe0109097e',
+            'reference' => 'af9243c776fb74875478d665d80a0738afa8fb50',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
