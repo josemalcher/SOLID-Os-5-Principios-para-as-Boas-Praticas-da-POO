@@ -351,6 +351,9 @@ Process finished with exit code 0
 ![imgs/solid-slide-015.png](imgs/solid-slide-015.png)
 
 - 25 Projeto Polígonos - Testando a Substituição de Tipos
+
+![imgs/solid-slide-016.png](imgs/solid-slide-016.png)
+
 - 26 Entendendo o Liskov Substituion Principal
 - 27 Refactoring do Projeto - Aplicando o princípio na prática
 
